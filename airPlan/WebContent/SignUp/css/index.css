@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.fott {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/part11.jpg);
+	height: 55vh;
+	background-size: cover;
+	background-position:  top;
+	font-family: 'Nanum Pen Script', cursive;
+	font-family: 'Anton', sans-serif;
+	color: #fff;
+}
+
+footer{
+	padding-top: 2rem;
+}
+

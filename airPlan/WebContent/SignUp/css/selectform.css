@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+.Jnt {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/idps.jpg);
+	height: 50vh;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+.Jnb {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/idps.jpg);
+	height: 10vh;
+	background-size: cover;
+	background-position: bottom;
+	color: #fff;
+	font-align: center;
+	font-family: 'Nanum Pen Script', cursive;
+	font-family: 'Anton', sans-serif;
+}
+
+
+.logo img{
+	position: absolute;
+	top: 10%;
+	left: 15%;
+	transform: translate(-50%,-50%);
+	width: 150px;
+	height: auto;
+}
+
+.Pts P{
+		font-family: 'Nanum Pen Script', cursive;
+		font-family: 'Anton', sans-serif;
+		font-size: 90px;
+		position: absolute;
+		color: #fff;
+		top: 30%;
+		left: 40%;
+		transform: translate(-50%,-50%);
+}
+
+.idps{
+	font-family: 'Nanum Pen Script', cursive;
+	font-family: 'Anton', sans-serif;
+}

@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+.re{
+	width: 1000px;
+	height: 150px;
+	background-color: #000;
+	opacity: 0.7;
+	position: relative;
+	top: 10%;
+	left: 20%;
+}

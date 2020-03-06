@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+.Jnt {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/pro2.jpg);
+	height: 50vh;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+.Jnb {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/pro2.jpg);
+	height: 10vh;
+	background-size: cover;
+	background-position: bottom;
+	color: #fff;
+	font-family: 'Nanum Pen Script', cursive;
+	font-family: 'Anton', sans-serif;
+	color: #fff;
+}
+
+
+.logo img{
+	margin-top: 30px;
+	margin-left: 250px;
+	float: left;
+	width: 150px;
+	height: auto;
+}
+
+.Pts P{
+		font-family: 'Nanum Pen Script', cursive;
+		font-family: 'Anton', sans-serif;
+		font-size: 90px;
+		position: absolute;
+		color: #fff;
+		top: 30%;
+		left: 35%;
+		transform: translate(-50%,-50%);

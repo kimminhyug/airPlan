@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+
+.ppl2 {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/adpl.jpg);
+	height: 1190px;
+	background-size: cover;
+	background-position: right;
+}
+
+h1{
+	font-size: 60px;
+}
+
+table {
+	font-size: 13px;
+}
+
+table th{
+	text-align: left;
+	background-color: #3a6070;
+	color: #fff;
+	padding: 4px 8px 4px;
+	
+}
+
+table td{
+	border: 2px solid #e3e3e3;
+	padding: 4px 8px 4px;
+}
+
+table tr:nth-child(odd) td{
+	background-color: #e7edf0;
+}
+
+.logo img{
+	margin-top: 30px;
+	margin-left: 30px;
+	float: left;
+	width: 300px;
+	height: auto;
+}

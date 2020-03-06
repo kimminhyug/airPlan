@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+.Pts{
+		width: 100%;
+		height: 200px;
+		margin-top:15px;
+		margin-bottom:15px;
+		background: rgba(11, 30, 65, 0.91);
+		display:table;
+		}
+				
+.Pts p{
+		font-family: 'Nanum Pen Script', cursive;
+		font-family: 'Anton', sans-serif;
+		font-size: 90px;
+		color: #fff;
+		display:table-cell; 
+		text-align:center; 
+		vertical-align:middle;
+}
+	

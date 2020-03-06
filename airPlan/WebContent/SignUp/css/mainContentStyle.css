@@ -1,0 +1,354 @@
+#big_Middle{
+min-width: 100%;
+min-height:1400px;
+
+}
+#first_Main_Banner{
+width:49%;
+height:322px;
+float:left;
+}
+#second_Main_Banner{
+width:24.5%;
+height:322px;
+float:left;
+}
+#main_Banner{
+width:100%;
+height:645px;
+float:left;
+margin-left:20px;
+
+}
+ul,li{
+list-style:none;
+margin-top:0px;
+margin-bottom:0px;
+padding:0px;
+}
+#best_Travel_Diary_Title{
+width:530px;
+height:25px;
+margin-top:30px;
+margin-left:30px;
+
+}
+.best_Set1 ul li .best_Travel_Diary1_Information{
+background: rgba(40, 40, 40, 0.8);
+}
+.best_Set1{
+margin-left:30px;
+width:352px;
+height:612px;
+margin-top:20px;
+display:inline;
+
+}
+.diary_li ul li{
+
+float: left;
+}
+.diary_li ul {
+overflow: auto;
+
+}
+#infoBoxText{
+	font-size:100%;
+	padding-bottom: 0px;
+    margin-top: 2%;
+    margin-bottom: 2%;}
+#infoBox1{	 /* 여행일지 베스트5 이미지 위 회색바탕 (span 태그) */
+position: absolute;
+    display: block;
+    
+    bottom: 0;
+    width: 17%;
+    height: 3%;
+   
+    top: 55.48%;
+   
+    left: 5%;
+    color:white;
+
+    background: rgba(40, 40, 40, 0.8);
+    padding:0px;
+}
+#infoBox2{  /* 여행일지 베스트5 이미지 위 회색바탕 (span 태그) */
+	position: absolute;
+    display: block;
+    bottom: 0;
+    
+    color:white;
+    background: rgba(40, 40, 40, 0.8);
+    padding:0px;
+    width: 17%;
+    height: 3%;
+    top: 55.48%;
+    left: 24%;
+   
+}
+#infoBox3{	 /* 여행일지 베스트5 이미지 위 회색바탕 (span 태그) */
+position: absolute;
+    display: block;
+    
+    bottom: 0;
+    width: 17%;
+    height: 3%;
+    top: 55.48%;
+    left: 43%;
+    color:white;
+
+    background: rgba(40, 40, 40, 0.8);
+    padding:0px;
+}
+#infoBox4{	 /* 여행일지 베스트5 이미지 위 회색바탕 (span 태그) */
+position: absolute;
+    display: block;
+    
+    bottom: 0;
+    width: 17%;
+    height: 3%;
+    top: 55.48%;
+    left: 62%;
+    color:white;
+
+    background: rgba(40, 40, 40, 0.8);
+    padding:0px;
+}
+#infoBox5{	 /* 여행일지 베스트5 이미지 위 회색바탕 (span 태그) */
+position: absolute;
+    display: block;
+    
+    bottom: 0;
+    width: 17%;
+    height: 3%;
+    top: 55.48%;
+    left: 81%;
+    color:white;
+
+    background: rgba(40, 40, 40, 0.8);
+    padding:0px;
+}
+#best_Travel_Diary1_Img{
+width:100%;
+height:100%;
+}
+#best_Travel_Diary1_Information{
+width:352px;
+height:64px;
+
+}
+.main_Tip{
+width: 100%;
+height:80px;
+margin-left:17%;
+}
+.main_Tip ul{
+width:100%;
+height:100px;
+}
+.main_Tip ul li{
+float:left;
+padding-left:7%;
+margin-right:6%;
+}
+.main_Tip ul li.icon1{
+background : url('../image/icon1.PNG') left/70px no-repeat; 
+
+
+} 
+.main_Tip ul li.icon2{
+background : url('../image/icon2.PNG') left/70px no-repeat; 
+} 
+.main_Tip ul li.icon3{
+background : url('../image/icon3.PNG') left/70px no-repeat; 
+} 
+#best1{
+
+width:100%;
+height:100%;
+}
+#diary_Ranking1{
+width:100px;
+height:50px;
+
+}
+#diary_li{
+width:17%;
+float: left;
+margin-right:2%;
+}
+#ranking_Info{
+display:inline-flex;
+padding-top:10px;
+
+}
+#diary_name{
+height:30px;
+}
+#best_Floor{
+width:100%;
+margin-left:5%;
+float:left;
+height:285px;
+margin-top: 30px;
+
+}
+#big_Center{
+width:100%;
+height:880px;
+float: right;
+}
+#popular_Area{
+margin-top:10px;
+width:100%;
+height:400px;
+float: left;
+margin-left:0px;
+}
+.swiper_Wrap{
+width:100%;
+height:240px;
+float:left;
+margin-top:20px;
+}
+ .swiper-container {
+      width: 100%;
+      height: 100%;
+      margin-left:20px;
+    }
+    .swiper-slide {
+    display: grid;
+      width: 30%;
+      height:150%;
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+
+.best_Travel{
+    width: 100%;
+    margin-left: 80px;
+    height: 240px;
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+#popular_Pic_Title{
+width: 100%;
+    height: 40px;
+    
+    
+    }
+#popluar_Area_Info{
+width:73%; 
+height:100%; 
+display:grid;
+}
+
+/* 마스크 뛰우기 */
+#mask {  
+    position:absolute;  
+    z-index:0;  
+    background-color:#fff;  
+     
+    left:0;
+    top:0;
+} #mask3 {  
+    position:absolute;  
+    z-index:0;  
+    background-color:#fff;  
+     
+    left:0;
+    top:0;
+} 
+#mask_People {  
+    position:absolute;  
+    z-index:0;  
+    background-color:#fff;  
+     
+    left:0;
+    top:0;
+} 
+/* 팝업으로 뜨는 윈도우 css  */ 
+
+
+.window2{
+    display: none;
+    position:absolute;  
+    left:50%;
+    top:0px;
+    margin-left: 200px;
+    width:300px;
+    height:500px;
+    background-color:#FFF;
+    z-index:10000;   
+    border:1px solid black; 
+ }
+ .window{
+    display: none;
+    position:absolute;  
+    margin-left: -500px;
+    width:800px;
+    height:500px;
+    background-color:#FFF;
+    z-index:10000;  
+    border:1px solid black; 
+ }
+ 
+  .window3{
+    display: none;
+    position:absolute;  
+    margin-left: -500px;
+    width:800px;
+    height:500px;
+    background-color:#FFF;
+    z-index:10000;  
+    border:1px solid black; 
+ }
+ .close{
+ 	position: absolute;
+    top: 26px;
+    right: 26px;
+    width: 30px;
+    height: 30px;
+    border-radius: 2px;
+    text-indent: -9999px;
+   
+    background:url('../image/x_Button.png') no-repeat center center;
+    background-size: 24px 24px;
+    transition: all .08s;
+ }
+ .exit{
+ width:0px;
+ border-top:0px;
+ }
+ .btn_minus{
+ text-indent: -9999px;
+ border:0px;
+ width:30px;
+ height:30px;
+ background:url('../image/minus.png') no-repeat center center;
+ background-size: 24px 24px;
+ }
+.btn_plus{
+text-indent: -9999px;
+border:0px;
+width:30px;
+height:30px;
+background:url('../image/plus.png') no-repeat center center;
+background-size: 24px 24px;
+}

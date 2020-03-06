@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+.pop1 {
+	width: 400px;
+	height: 500px;
+	
+}
+
+.pop2 {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../image/pop3.jpg);
+	height: 508px;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+.pop3{
+	color: #fff;
+	font-family: 'Bree Serif', serif;
+}
+
+h1{
+	font-size: 60px;
+	
+}
+
+.logo2 img{
+	width: 150px;
+	height: 150px;
+}
+
+.p {
+	font-family: 'Bree Serif', serif;
+	font-family: 'Mali', cursive;
+	font-family: 'Noto Sans KR', sans-serif;
+}
